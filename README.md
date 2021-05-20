@@ -1,4 +1,4 @@
-https://github.com/saadeghi/saadeghi/blob/master/dino.gif
+[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 ## Hi there 🤙
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniambarita&layout=compact)
