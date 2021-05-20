@@ -8,3 +8,6 @@
 - 👯 I’m looking to collaborate on, (CodeIgniter4🔥) for now.
 
 
+
+[![Punit's github stats](https://github-readme-stats.vercel.app/api?username=doniambarita)](https://github.com/doniambarita)
+![ so cool!](https://github.com/doniambarita/doniambarita/blob/master/wave.svg )
