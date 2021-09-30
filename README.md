@@ -3,7 +3,7 @@
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=doniambarita">
 </p>
-<hr>
+<!-- <hr>
 
 
 
@@ -26,4 +26,4 @@
   <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>&nbsp;&nbsp;
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
 </p>
-
+ -->
